@@ -4,7 +4,7 @@ description: "Title"
 subdescription: "Subtitle"
 
 # Site config
-baseurl: ""
+baseurl: "/LessPhone"
 highlighter: rouge
 sass:
   sass_dir: assets/scss

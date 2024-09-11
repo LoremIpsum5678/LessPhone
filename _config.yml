@@ -1,0 +1,15 @@
+# User config
+title: "Logo"
+description: "Title"
+subdescription: "Subtitle"
+
+# Site config
+baseurl: ""
+highlighter: rouge
+sass:
+  sass_dir: assets/scss
+  style: compressed
+  
+collections:
+  days:
+    output: true

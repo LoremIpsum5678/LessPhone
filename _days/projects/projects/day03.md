@@ -1,7 +1,7 @@
 ---
 category: projects
 project:
-  title: "Day 1"
-  logo: "/assets/images/day01.jpg"
+  title: "Day 3"
+  logo: "/assets/images/day03.jpg"
 ---
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+After a rough night, I expected a challenging day ahead. It seems like the phone becomes more tempting the more exhausted you are, doesn't it? Resisting the urge to listen to music while working was particularly difficult. However, the compulsion to use my phone wasn't as overwhelming as I had feared. I took a few walks throughout the day, and listening to music outside motivated me to get out. By evening, I no longer felt a strong desire to use the phone.

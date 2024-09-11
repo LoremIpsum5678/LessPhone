@@ -1,0 +1,14 @@
+---
+category: projects
+project:
+  title: "Day 0 - Rules"
+  logo: "/assets/images/day00.jpg"
+---
+Here are the rules I set for this challenge:
+<br/>
+<br/>1. Check social media and news only once per day.
+<br/>2. No other forms of entertainment on the phone.
+<br/>3. Use the phone only with clear intent.
+<br/>4. No music or podcasts, except during workouts and walks.
+<br/><br/>
+I hope this mini-blog helps me stay focused and hold myself accountable.

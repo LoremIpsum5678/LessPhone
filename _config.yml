@@ -1,7 +1,6 @@
 # User config
-title: "Logo"
-description: "Title"
-subdescription: "Subtitle"
+description: "30 days of spending less time on the phone"
+subdescription: "A diary"
 
 # Site config
 baseurl: "/LessPhone"
